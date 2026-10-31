@@ -21,7 +21,7 @@ def main():
         choice = int(raw_choice)
 
         if choice == 0:
-            print("Goodbye!")
+            print("Goobye, thanks for using the Scientific Calculator!")
             break
 
         if choice not in range(1, 13):
